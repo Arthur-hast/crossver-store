@@ -1,4 +1,4 @@
-# sales-pagea# 👕 Sales Page
+# 👕 Sales Page
 
 A página é uma interface de produto para uma loja de moda, com foco em transparência e detalhamento das peças. O projeto apresenta um produto com imagem, preço, opções de cores e tamanhos, botão de compra e seções de informações adicionais sobre transparência, custos e impacto ambiental.
 
