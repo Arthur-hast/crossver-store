@@ -4,7 +4,7 @@ A página é uma interface de produto para uma loja de moda, com foco em transpa
 
 ## 🔗 Visualização do projeto:
 
-**[Ver Projeto](https://arthur-hast.github.io/sales-page/)**
+**[Ver Projeto](https://arthur-luiss.github.io/crossver-store/)**
 
 ## 👨🏽‍💻 Tecnologias Utilizadas
 
